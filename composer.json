@@ -38,7 +38,7 @@
 
   "require": {
     "php": ">=7.1.0",
-    "kalnoy/nestedset": "^4.3"
+    "kalnoy/nestedset": "^5.0"
   },
   "scripts": {
     "test": "phpunit"
